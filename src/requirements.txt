@@ -1,0 +1,5 @@
+pandas
+google-cloud-alloydb-connector[pg8000]
+google-cloud-storage
+functions-framework
+gradio
